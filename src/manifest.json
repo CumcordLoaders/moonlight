@@ -1,0 +1,9 @@
+{
+  "id": "goonlight",
+  "meta": {
+    "name": "goonlight",
+    "tagline": "Cumcord loader for moonlight",
+    "authors": ["Cynosphere"]
+  },
+  "cors": ["https://raw.githubusercontent.com/Cumcord/builds/main/build.js"]
+}
